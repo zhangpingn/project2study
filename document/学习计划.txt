@@ -1,0 +1,25 @@
+学习技术：
+1.web框架：
+   iril框架(了解原理，及会使用)
+2.redis缓存：
+   github.com/go-redis/redis(会使用)
+3.序列化：
+   json-iterator(了解原理，及会使用)
+4.日志：
+   logrus，zap(最快的日志框架)
+5.限流：
+   了解原理，github.com/didip/tollbooth
+6.jwt：
+   了解原理
+7.测试框架
+   Benchmark框架的使用
+8.docker的复习
+   dockerfile的语法复习，以及一些常用命令练习
+9.github的复习
+   一些常用命令的练习
+
+
+
+编写框架：
+1.golang版mybatis
+2.限流技术
